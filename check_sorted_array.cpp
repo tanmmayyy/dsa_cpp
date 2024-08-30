@@ -16,3 +16,4 @@ int isSorted(int num, vector<int> arr){
     }
     return true;
 }
+
